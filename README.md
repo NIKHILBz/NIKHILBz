@@ -22,6 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-borane-905042196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-borane-905042196" height="30" width="40" /></a>
+<a href="https://instagram.com/nikhil_borane_?igshid=NTc4MTIwNjQ2YQ==" target="blank"><img align="centre" src="https://github.com/NIKHILBz/NIKHILBz/blob/main/instagram.png" alt="https://instagram.com/nikhil_borane_?igshid=NTc4MTIwNjQ2YQ==" height="30" width="40" /></a>
+  
 <a href="https://api.whatsapp.com/send/?phone=7559120028&text&app_absent=0" target="blank"><img align="center" src="https://github.com/NIKHILBz/NIKHILBz/blob/main/whatsapp-png-whatsapp-logo-png-1000.png" alt="https://www.linkedin.com/in/nikhil-borane-905042196" height="30" width="40" /></a>
 </p>
 

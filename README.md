@@ -25,8 +25,9 @@
 <!--- ⚡ Fun fact **I think I am Funny XD**-->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-borane-905042196" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-borane-905042196" height="30" width="40" /></a> <a href="https://instagram.com/nikhil_borane_?igshid=NTc4MTIwNjQ2YQ==" target="blank"><img src="https://github.com/NIKHILBz/NIKHILBz/blob/main/instagram.png" alt="https://instagram.com/nikhil_borane_?igshid=NTc4MTIwNjQ2YQ==" height="30" width="40" /></a> <a href="https://api.whatsapp.com/send/?phone=7559120028&text&app_absent=0" target="blank"><img src="https://github.com/NIKHILBz/NIKHILBz/blob/main/whatsapp-png-whatsapp-logo-png-1000.png" alt="https://www.linkedin.com/in/nikhil-borane-905042196" height="30" width="40" /></a>
+<p align="left" dir="auto">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-borane-905042196" target="blank"" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/867df2c204f267eda35bd8f4c926aa13c4fd5f0cb9cd0d8c2ebbefe887715f67/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66382f4c696e6b6564496e5f69636f6e5f636972636c652e7376672f38303070782d4c696e6b6564496e5f69636f6e5f636972636c652e7376672e706e67" alt="nikhil" height="30" width="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" style="max-width: 100%;"></a>
+<a href="https://instagram.com/nikhil_borane_?igshid=NTc4MTIwNjQ2YQ==" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/b59e687de7d4f68dab32dcab6ce5123a9deaf123853d968bcc2f9d2b4b3f088f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f496e7374616772616d5f6c6f676f5f323031362e7376672f37363870782d496e7374616772616d5f6c6f676f5f323031362e7376672e706e67" alt="samyyaakk" height="30" width="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style="max-width: 100%;"></a>
 </p>
 
 

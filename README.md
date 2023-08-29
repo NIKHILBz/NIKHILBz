@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- ⚡ Hobbies [Foodie,Movies,Exploring Places,Listening songs](Foodie,Movies,Exploring Places,Listening songs)
+- ⚡ Hobbies [Foodie,Movies,Exploring Places,Listening songs]
 
 - 💬 Ask me about **Google Cloud, and Any Technical Stuff.**
 

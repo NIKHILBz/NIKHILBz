@@ -26,9 +26,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" dir="auto">
-<a href="https://www.linkedin.com/in/nikhil-borane/" target="blank"" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/867df2c204f267eda35bd8f4c926aa13c4fd5f0cb9cd0d8c2ebbefe887715f67/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66382f4c696e6b6564496e5f69636f6e5f636972636c652e7376672f38303070782d4c696e6b6564496e5f69636f6e5f636972636c652e7376672e706e67" alt="nikhil" height="30" width="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" style="max-width: 100%;"></a>
-<a href="https://instagram.com/nikhil_borane_?igshid=NTc4MTIwNjQ2YQ==" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/b59e687de7d4f68dab32dcab6ce5123a9deaf123853d968bcc2f9d2b4b3f088f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f496e7374616772616d5f6c6f676f5f323031362e7376672f37363870782d496e7374616772616d5f6c6f676f5f323031362e7376672e706e67" alt="nikhil" height="30" width="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style="max-width: 100%;"></a>
-</p>
+
+ 
+<a href="https://linkedin.com/in/nikhil-borane" rel="nofollow"><img align="middle" src="https://camo.githubusercontent.com/2c9f6379cc415e1a604c170e0aabcd2138ec196a343accde8a47bcba67834610/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66382f4c696e6b6564496e5f69636f6e5f636972636c652e7376672f38303070782d4c696e6b6564496e5f69636f6e5f636972636c652e7376672e706e67" alt="boranenikhil" height="30" width="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" style="max-width: 100%;"></a>
+
+<a href="https://instagram.com/nikhil_borane_" rel="nofollow"><img align="middle" src="https://camo.githubusercontent.com/5a79f391b160f50e8a317a194137e8cefa758e91585cde581b30b4b4fd8c823b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f496e7374616772616d5f6c6f676f5f323031362e7376672f37363870782d496e7374616772616d5f6c6f676f5f323031362e7376672e706e67" alt="boranenikhil" height="30" width="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style="max-width: 100%;"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>

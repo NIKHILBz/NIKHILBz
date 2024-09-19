@@ -16,7 +16,7 @@
 
 - ⚡ Hobbies [Foodie,Movies,Exploring Places,Listening songs]
 
-- 💬 Ask me about **Google Cloud, and Any Technical Stuff.**
+- 💬 Ask me about **Google Cloud,Any Technical Stuff and About Devices**
 
 - 📫 How to reach me **nikhil.21911203@viit.ac.in**
 

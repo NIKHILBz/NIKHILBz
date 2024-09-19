@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **My Technical Skills**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently Enrolled in **CDac (SM Vita, Mumbai)**
 
 - ⚡ Hobbies [Foodie,Movies,Exploring Places,Listening songs]
 

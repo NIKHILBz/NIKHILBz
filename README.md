@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h1 align="center">Hi 👋, I'm Nikhil Borane</h1>
-<h3 align="center">DevOps Enthusiast from Pune,Maharashtra,India</h3>
+<h3 align="center">Technology Enthusiast from Pune,Maharashtra,India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilbz&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilbz" /> </p>
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **My Technical Skills**
 
-- 🌱 I’m currently Enrolled in **CDac (SM Vita, Mumbai)**
+- 🌱 I’m currently Enrolled in **CDac (SM Vita, Mumbai) for "PG Diploma Degree In Advanced Computing"**
 
 - ⚡ Hobbies [Foodie,Movies,Exploring Places,Listening songs]
 

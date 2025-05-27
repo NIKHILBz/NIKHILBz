@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **My Technical Skills**
 
-- 🌱 I’m currently Enrolled in **CDac (SM Vita, Mumbai) for "PG Diploma Degree In Advanced Computing"**
+- 🌱 I’m currently Working with in **Capgemini as a Software Engineer**
 
 - ⚡ Hobbies [Foodie,Movies,Exploring Places,Listening songs]
 

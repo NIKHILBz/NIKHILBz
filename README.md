@@ -3,16 +3,17 @@
   
   # 👋 Hi, I'm **Nikhil Borane**
   
-  ### 🚀 Technology Enthusiast | Software Engineer
-  #### 📍 Mumbai, Maharashtra, India
+  ### 🚀 Technology Enthusiast | Software Engineer | Cloud Innovator
+  #### 📍 Pune, Maharashtra, India
   
   <div>
     <img src="https://komarev.com/ghpvc/?username=nikhilbz&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilbz" />
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/nikhilbz?style=social" />
   </div>
   
+  <br />
   
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilbz&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="nikhilbz" />
 </div>
 
 ---
@@ -21,12 +22,13 @@
 
 | | |
 |---|---|
-| 🔭 **Currently Working On** | Enhancing technical skills and expertise |
-| 🌱 **Current Role** | Software Engineer @Capgemini |
+| 🔭 **Currently Working On** | Enhancing technical skills & cloud expertise |
+| 🌱 **Current Role** | Software Engineer @ Capgemini |
 | 🎓 **Education** | B.Tech from [Vishwakarma Institute of Information Technology, Pune](https://www.viit.ac.in/) |
-| 🎯 **Key Interests** | Backend Development, Cloud Computing, Technical Leadership, Freelancing, Finance |
+| 💬 **Ask Me About** | Java, C++, Spring Boot, .NET, Cloud Computing, Power BI, REST APIs |
+| 🎯 **Key Interests** | Cloud Computing, Backend Development, Technical Leadership |
 | ⚡ **Hobbies** | 🍕 Foodie \| 🎬 Movie Buff \| 🗺️ Exploring New Places \| 🎵 Music |
-| 📫 **Email** | nikhilb01042@gmail.com |
+| 📫 **Email** | nikhil.21911203@viit.ac.in |
 
 ---
 
@@ -39,7 +41,7 @@
   <a href="https://instagram.com/nikhil_borane_" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:nikhilb01042@gmail.com">
+  <a href="mailto:nikhil.21911203@viit.ac.in">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/nikhilbz" target="_blank">
@@ -213,10 +215,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilbz&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&text_color=c9cacc&title_color=58a6ff&border_color=30363d" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilbz&theme=dark&background=0d1117&ring=58a6ff&fire=ff7b1d&currStreakLabel=c9cacc" alt="GitHub Streak" />
 </div>
 
 ---

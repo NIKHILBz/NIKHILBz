@@ -39,7 +39,7 @@
   <a href="https://instagram.com/nikhil_borane_" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:nikhil.21911203@viit.ac.in">
+  <a href="mailto:nikhilb01042@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/nikhilbz" target="_blank">

@@ -28,7 +28,7 @@
 | 💬 **Ask Me About** | Java, C++, Spring Boot, .NET, Cloud Computing, Power BI, REST APIs |
 | 🎯 **Key Interests** | Cloud Computing, Backend Development, Technical Leadership |
 | ⚡ **Hobbies** | 🍕 Foodie \| 🎬 Movie Buff \| 🗺️ Exploring New Places \| 🎵 Music |
-| 📫 **Email** | nikhil.21911203@viit.ac.in |
+| 📫 **Email** | nikhilb01042@gmail.com |
 
 ---
 

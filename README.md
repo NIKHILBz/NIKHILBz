@@ -4,16 +4,14 @@
   # 👋 Hi, I'm **Nikhil Borane**
   
   ### 🚀 Technology Enthusiast | Software Engineer | Cloud Innovator
-  #### 📍 Pune, Maharashtra, India
+  #### 📍 Mumbai, Maharashtra, India
   
   <div>
     <img src="https://komarev.com/ghpvc/?username=nikhilbz&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilbz" />
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/nikhilbz?style=social" />
   </div>
   
-  <br />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilbz&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="nikhilbz" />
+ 
 </div>
 
 ---

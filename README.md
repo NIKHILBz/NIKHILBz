@@ -54,29 +54,20 @@
 ### **Languages**
 <table style="border: 2px solid #30363d; border-collapse: collapse; width: 100%; background-color: #0d1117;">
   <tr style="border: 2px solid #30363d;">
+        <td align="center" width="20%" style="border: 1px solid #30363d; padding: 20px;">
+      <a href="https://www.python.com/en/" target="_blank" rel="noreferrer" title="Python">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Java" width="70" height="70"/>
+        <br><strong style="color: #58a6ff;">Python</strong>
+      </a>
+    </td>
     <td align="center" width="20%" style="border: 1px solid #30363d; padding: 20px;">
       <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" title="Java">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70" height="70"/>
         <br><strong style="color: #58a6ff;">Java</strong>
       </a>
     </td>
-    <td align="center" width="20%" style="border: 1px solid #30363d; padding: 20px;">
-      <a href="https://cplusplus.com/" target="_blank" rel="noreferrer" title="C++">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70"/>
-        <br><strong style="color: #58a6ff;">C++</strong>
-      </a>
     </td>
-    <td align="center" width="20%" style="border: 1px solid #30363d; padding: 20px;">
-      <a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="70" height="70"/>
-        <br><strong style="color: #58a6ff;">PHP</strong>
-      </a>
     </td>
-    <td align="center" width="20%" style="border: 1px solid #30363d; padding: 20px;">
-      <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" rel="noreferrer" title="C#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="70" height="70"/>
-        <br><strong style="color: #58a6ff;">C#</strong>
-      </a>
     </td>
     <td align="center" width="20%" style="border: 1px solid #30363d; padding: 20px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
@@ -90,23 +81,18 @@
 ### **Backend & Frameworks**
 <table style="border: 2px solid #30363d; border-collapse: collapse; width: 100%; background-color: #0d1117;">
   <tr style="border: 2px solid #30363d;">
+        <td align="center" width="25%" style="border: 1px solid #30363d; padding: 20px;">
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" title="FAST API">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt=".NET" width="70" height="70"/>
+        <br><strong style="color: #58a6ff;">Fast API</strong>
+      </a>
+    </td>
     <td align="center" width="25%" style="border: 1px solid #30363d; padding: 20px;">
       <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" title="Spring Boot">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="70" height="70"/>
         <br><strong style="color: #58a6ff;">Spring Boot</strong>
       </a>
     </td>
-    <td align="center" width="25%" style="border: 1px solid #30363d; padding: 20px;">
-      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" title=".NET Core">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="70" height="70"/>
-        <br><strong style="color: #58a6ff;">.NET Core</strong>
-      </a>
-    </td>
-    <td align="center" width="25%" style="border: 1px solid #30363d; padding: 20px;">
-      <a href="https://www.asp.net/" target="_blank" rel="noreferrer" title="ASP.NET">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg" alt="ASP.NET" width="70" height="70"/>
-        <br><strong style="color: #58a6ff;">ASP.NET MVC</strong>
-      </a>
     </td>
     <td align="center" width="25%" style="border: 1px solid #30363d; padding: 20px;">
       <a href="https://restfulapi.net/" target="_blank" rel="noreferrer" title="REST APIs">
@@ -136,6 +122,11 @@
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70"/>
         <br><strong style="color: #58a6ff;">MySQL</strong>
+      </a>
+          <td align="center" width="25%" style="border: 1px solid #30363d; padding: 20px;">
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="MySQL" width="70" height="70"/>
+        <br><strong style="color: #58a6ff;">PostgreSQL</strong>
       </a>
     </td>
     <td align="center" width="25%" style="border: 1px solid #30363d; padding: 20px;">

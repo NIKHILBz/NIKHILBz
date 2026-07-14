@@ -20,11 +20,11 @@
 
 | | |
 |---|---|
-| 🔭 **Currently Working On** | Enhancing technical skills & cloud expertise |
+| 🔭 **Currently Working On** | Enhancing technical skills & Finance expertise |
 | 🌱 **Current Role** | Software Engineer @ Capgemini |
 | 🎓 **Education** | B.Tech from [Vishwakarma Institute of Information Technology, Pune](https://www.viit.ac.in/) |
-| 💬 **Ask Me About** | Java, C++, Spring Boot, .NET, Cloud Computing, Power BI, REST APIs |
-| 🎯 **Key Interests** | Cloud Computing, Backend Development, Technical Leadership |
+| 💬 **Ask Me About** | Python, Java, FastAPI, Spring Boot, GenAI, LLMs, Power BI, REST APIs |
+| 🎯 **Key Interests** | Backend Development, AI/ML, GenAI, Finance, Technical Leadership |
 | ⚡ **Hobbies** | 🍕 Foodie \| 🎬 Movie Buff \| 🗺️ Exploring New Places \| 🎵 Music |
 | 📫 **Email** | nikhilb01042@gmail.com |
 
